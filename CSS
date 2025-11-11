@@ -1,0 +1,37 @@
+body {
+    font-family: 'Trebuchet MS';
+
+}
+
+.imagem {
+    width: 250px;
+    border-radius: 100px 10px 100px 10px;
+}
+.titulo {
+    font-family: "Silkscreen", sans-serif;
+    color: #198754;
+}
+.name {
+    font-family: "Rochester";
+    font-size: 32px;
+}
+a:hover {
+    color: #198754;
+}
+.btn btn-link:hover {
+    color: #198754;
+}
+h2, h5 {
+    font-family: "DynaPuff";
+}
+.projeto {
+    width:450px ;
+}
+
+.link {
+    margin: 20px;
+
+}
+.github {
+    width: 20px;
+}
